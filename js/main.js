@@ -1,7 +1,7 @@
 $(document).ready(function(){
 	var $this = $(this);
 	
-	$('.social-media a').click(function(e){
+	$('.contact-info a').click(function(e){
 		e.preventDefault();
 	});
 
